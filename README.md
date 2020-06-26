@@ -4,4 +4,4 @@
 
 ### pip command to install ChatterBot Library
 #### pip install chatterbot
-#### For error, No module named: 'chatterbot_corpus'  -> Used pip install chatterbot-corpus
+#### For error, No module named: 'chatterbot_corpus'  -> Used pip install chatterbot-corpus or pip install --user chatterbot_corpus
